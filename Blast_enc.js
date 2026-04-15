@@ -28,7 +28,9 @@ function a0_0x8864() {
     'chalk',
     'figlet',
     'clear',
-    'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...',
+    'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+.eyJpZCI6MjQ0LCJlbWFpbCI6ImFzdUBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTc3NjIxNjAyNSwiZXhwIjoxNzc2MjAyMDI1fQ
+.YvYc83hdryf7b1y4ij3Pfr2PhsAhYH1ySOjhlRqLwts',
   ];
   return _0x374ec9;
 }
