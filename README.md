@@ -16,7 +16,7 @@ Jalankan di Termux:
 ```bash
 pkg update && pkg upgrade -y && \
 pkg install git nodejs -y && \
-git clone https://github.com/AciLNiBoss/Panel-wa-badak.git && \
+git clone https://github.com/zonalabs/wabadak.git && \
 cd Panel-wa-badak && \
 npm init -y && \
 npm install && \
